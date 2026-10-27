@@ -5,7 +5,7 @@ Ask questions about your own PDFs and get answers that cite the **file name and 
 Everything runs on free tools: local embeddings, a local vector database, and a free-tier hosted LLM.
 
 ![Demo screenshot](Screenshot.png)
-<img width="1920" height="867" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/75aed0cd-968e-4940-9d9a-ccf78559dffc" />
+<img width="720" height="720" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/75aed0cd-968e-4940-9d9a-ccf78559dffc" />
 <img width="1913" height="865" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/0c3311b9-bd6d-40f1-8084-fa334ac0012e" />
 
 
