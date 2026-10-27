@@ -4,7 +4,7 @@ Ask questions about your own PDFs and get answers that cite the **file name and 
 
 Everything runs on free tools: local embeddings, a local vector database, and a free-tier hosted LLM.
 
-![Demo screenshot](screenshot.png)
+![Demo screenshot](Screenshot.png)
 
 ## Features
 
